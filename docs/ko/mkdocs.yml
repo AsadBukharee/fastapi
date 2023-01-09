@@ -57,6 +57,7 @@ nav:
   - sv: /sv/
   - tr: /tr/
   - uk: /uk/
+  - ur: /ur/
   - zh: /zh/
 - 자습서 - 사용자 안내서:
   - tutorial/index.md
@@ -147,6 +148,8 @@ extra:
     name: tr - Türkçe
   - link: /uk/
     name: uk - українська мова
+  - link: /ur/
+    name: ur
   - link: /zh/
     name: zh - 汉语
 extra_css:
